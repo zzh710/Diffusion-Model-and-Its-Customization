@@ -22,15 +22,14 @@ An end-to-end repository for exploring generative diffusion architectures, text-
 
 **Reference Subject Image:**
 
-![Input Subject](<img width="502" height="610" alt="image1" src="https://github.com/user-attachments/assets/100e9963-0af9-4459-9184-320abbfe7997" />
-)
+![Input Subject](img width="502" height="610" alt="image1" src="https://github.com/user-attachments/assets/100e9963-0af9-4459-9184-320abbfe7997" /)
 
 **Comparative Generation Results:**
 
 | Method / Approach | Prompt / Context | Generated Output |
 | :--- | :--- | :---: |
-| **Custom Diffusion** (Fine-tuned, 300 steps) | *A photo of [subject] wearing sunglasses on a beach* | ![Custom Diffusion](<img width="512" height="512" alt="border_collie_4" src="https://github.com/user-attachments/assets/69250eb3-8fc8-4158-b575-a506eae8ea14" />)|
-| **BLIP-Diffusion** (Zero-shot subject-driven) | *A photo of [subject] wearing sunglasses on a beach* | ![BLIP-Diffusion](<img width="512" height="512" alt="27" src="https://github.com/user-attachments/assets/a1e49c7a-2e04-4b7f-a543-1baeafd6ed7e" />) |
+| **Custom Diffusion** (Fine-tuned, 300 steps) | *A photo of [subject] wearing sunglasses on a beach* | ![Custom Diffusion](img width="512" height="512" alt="border_collie_4" src="https://github.com/user-attachments/assets/69250eb3-8fc8-4158-b575-a506eae8ea14" /)|
+| **BLIP-Diffusion** (Zero-shot subject-driven) | *A photo of [subject] wearing sunglasses on a beach* | ![BLIP-Diffusion](img width="512" height="512" alt="27" src="https://github.com/user-attachments/assets/a1e49c7a-2e04-4b7f-a543-1baeafd6ed7e" /) |
 ---
 
 
